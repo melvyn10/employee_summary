@@ -1,0 +1,31 @@
+{
+  "name": "employee_summary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melvyn10/employee_summary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melvyn10/employee_summary/issues"
+  },
+  "homepage": "https://github.com/melvyn10/employee_summary#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.3.3",
+    "jest": "^26.6.3",
+    "test": "^0.6.0",
+    "util": "^0.12.3"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "devDependencies": {}
+}
