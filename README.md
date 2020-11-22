@@ -27,11 +27,11 @@ otherwise, if role is intern, enter school name, select <enter>
 
 repeat for all employees until "Success!" appears
 
-![Alt Text](https://melvyn10.github.io/employee_summary/tree/main/images/Usage.png)
+![Alt Text](https://github.com/melvyn10/employee_summary/blob/main/images/Usage.png)
 
 go to the output folder and review team.html. You can see the output web page on a browser. It should look like the following:
 
-![Alt Text](https://melvyn10.github.io/employee_summary/tree/main/images/MyTeam.png)
+![Alt Text](https://github.com/melvyn10/employee_summary/blob/main/images/MyTeam.png)
 
 ## Contributors
 Melvyn T
