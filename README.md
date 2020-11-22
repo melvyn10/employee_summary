@@ -49,6 +49,4 @@ inquirer, for Command Line Interface (CLI), this is use to prompt the user for i
 For questions, contact melvyn10 on GitHub 
 For questions, email me at 
 
-## Videos
-![Alt Text](https://github.com/melvyn10/employee_summary/blob/main/video/Team-build.webm)
-![Alt Text](https://github.com/melvyn10/employee_summary/blob/main/video/review-html.webm)
+
