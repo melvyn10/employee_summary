@@ -39,7 +39,7 @@ Melvyn T
 ## Tests
 npm run test
 
-![Alt Text](https://melvyn10.github.io/employee_summary/tree/main/images/Test-results.png)
+![Alt Text](https://github.com/melvyn10/employee_summary/blob/main/images/Test-results.png)
 
 ## Resources
 Node.js, runtime environment for javascript
@@ -50,5 +50,5 @@ For questions, contact melvyn10 on GitHub
 For questions, email me at 
 
 ## Videos
-![Alt Text](https://melvyn10.github.io/employee_summary/tree/main/video/Team-build.webm)
-![Alt Text](https://melvyn10.github.io/employee_summary/tree/main/video/review-html.webm)
+![Alt Text](https://github.com/melvyn10/employee_summary/blob/main/video/Team-build.webm)
+![Alt Text](https://github.com/melvyn10/employee_summary/blob/main/video/review-html.webm)
